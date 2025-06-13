@@ -59,14 +59,3 @@ Integrate with speech output
 Improve accuracy using deep learning models
 
 Deploy on web or mobile platforms
-
-📁 Folder Structure (Example)
-
-Hand_Sign_Recognition/
-│
-├── dataset/                  # Hand gesture images (if any)
-├── model/                    # Saved ML/DL models
-├── app.py                    # Main application
-├── utils.py                  # Helper functions
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
